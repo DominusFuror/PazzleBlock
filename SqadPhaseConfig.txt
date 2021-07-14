@@ -1,0 +1,6 @@
+{
+"virusDuration":2,
+"virusReload":1,
+"squadMoveSpeed":1.5
+
+}
